@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello! My name is Iggy Kohl and I am a new Software Developer! I am currently enrolled in TechElevator! 
+I am currently learning JavaScript as my first language 
+Ask me about my career change 
+they/them
